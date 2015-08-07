@@ -1,1 +1,6 @@
+<<<<<<< HEAD
 I am new file with new name
+=======
+My name is awais arshad. 
+I am .NET Develper at Blunor.
+>>>>>>> 401e0fde22f529c20e733767399a5960abbac0f5
